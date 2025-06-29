@@ -1,5 +1,5 @@
-package src.classes;
-import src.enums.*;
+package classes;
+import enums.*;
 
 /**
  * Represents a special ability that a character can use during battle.

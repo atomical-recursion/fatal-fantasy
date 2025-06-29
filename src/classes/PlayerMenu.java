@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Represents the menu that allows users to manage characters for both players.

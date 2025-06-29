@@ -1,4 +1,4 @@
-package src.enums;
+package enums;
 
 /**
  * Enumerates textual descriptions for each ability in the game.

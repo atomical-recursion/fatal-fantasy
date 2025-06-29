@@ -1,5 +1,5 @@
-package src.classes;
-import src.enums.*;
+package classes;
+import enums.*;
 
 /**
  * Represents the battle interface when battling with another character.

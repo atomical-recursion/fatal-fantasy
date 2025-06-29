@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Handles the character management interface for a player and dynamically

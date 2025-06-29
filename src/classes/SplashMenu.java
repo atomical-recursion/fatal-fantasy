@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Handles the transition from the main menu to the battle menu.

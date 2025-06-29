@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Represents the menu interface for deleting a character from a player's roster.

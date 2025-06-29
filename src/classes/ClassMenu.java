@@ -1,5 +1,5 @@
-package src.classes;
-import src.enums.*;
+package classes;
+import enums.*;
 
 /**
  * Displays a menu allowing the player to select a character class.

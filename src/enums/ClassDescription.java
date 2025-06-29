@@ -1,4 +1,4 @@
-package src.enums;
+package enums;
 
 /**
  * Enumerates the class descriptions used in the game for MAGE, ROGUE, and WARRIOR.

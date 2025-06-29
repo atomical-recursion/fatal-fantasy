@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Represents a confirmation menu for exiting the game and for deleting a

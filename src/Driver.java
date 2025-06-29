@@ -1,5 +1,4 @@
-package src;
-import src.classes.*;
+import classes.*;
 
 public class Driver {
     public static void main(String[] args) {

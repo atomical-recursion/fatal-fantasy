@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Represents the main menu of the game "Fatal Fantasy: Tactics".

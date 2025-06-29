@@ -1,5 +1,5 @@
-package src.classes;
-import src.enums.*;
+package classes;
+import enums.*;
 
 /**
  * Displays the different sections of the game rules. It allows players to read

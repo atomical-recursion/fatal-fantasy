@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Handles the display and logic for the final screen of a battle.

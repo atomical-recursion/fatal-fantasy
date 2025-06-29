@@ -1,5 +1,5 @@
-package src.classes;
-import src.enums.*;
+package classes;
+import enums.*;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Displays detailed information about a single character.

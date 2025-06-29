@@ -1,4 +1,4 @@
-package src.enums;
+package enums;
 
 /**
  * Enumerates the available character classes in the game.

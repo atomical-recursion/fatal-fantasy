@@ -1,4 +1,4 @@
-package src.classes;
+package classes;
 
 /**
  * Displays a menu listing all of a player's characters and their brief details.

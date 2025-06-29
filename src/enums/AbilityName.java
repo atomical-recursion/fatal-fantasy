@@ -1,4 +1,4 @@
-package src.enums;
+package enums;
 
 /**
  * Enumerates the display names of all abilities used in the game.
