@@ -1,7 +1,8 @@
-import views.MenuView;
+import views.*;
 
 public class Driver {
     public static void main(String[] args) {
-        MenuView menu = new MenuView();
+        //MenuView menu = new MenuView();
+        PlayerView raceView = new PlayerView();
     }
 }
